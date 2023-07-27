@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Work/StudioProject/ArixoChat/app/src/main/res/drawable/background_bottom_immersive_content.xml" value="0.3734375" />
+        <entry key="..\:/Work/StudioProject/ArixoChat/app/src/main/res/drawable/bg_chat_time_tag.xml" value="0.5177083333333333" />
+        <entry key="..\:/Work/StudioProject/ArixoChat/app/src/main/res/drawable/chat_from_bg_selector.xml" value="0.5177083333333333" />
+        <entry key="..\:/Work/StudioProject/ArixoChat/app/src/main/res/drawable/chat_to_bg_selector.xml" value="0.5177083333333333" />
+        <entry key="..\:/Work/StudioProject/ArixoChat/app/src/main/res/drawable/selector_bg_tip.xml" value="0.5177083333333333" />
+        <entry key="..\:/Work/StudioProject/ArixoChat/app/src/main/res/drawable/selector_chat_more.xml" value="0.5177083333333333" />
+        <entry key="..\:/Work/StudioProject/ArixoChat/app/src/main/res/drawable/selector_tab_bg.xml" value="0.5177083333333333" />
+        <entry key="..\:/Work/StudioProject/ArixoChat/app/src/main/res/layout/activity_main.xml" value="0.4414201183431953" />
+        <entry key="..\:/Work/StudioProject/ArixoChat/app/src/main/res/layout/activity_splash.xml" value="0.41847826086956524" />
+        <entry key="..\:/Work/StudioProject/ArixoChat/app/src/main/res/layout/chat_item_emoji.xml" value="0.41847826086956524" />
+        <entry key="..\:/Work/StudioProject/ArixoChat/app/src/main/res/layout/chat_item_list_left.xml" value="0.41847826086956524" />
+        <entry key="..\:/Work/StudioProject/ArixoChat/app/src/main/res/layout/chat_item_list_right.xml" value="0.41847826086956524" />
+        <entry key="..\:/Work/StudioProject/ArixoChat/app/src/main/res/layout/chat_tool_box.xml" value="0.41847826086956524" />
+        <entry key="..\:/Work/StudioProject/ArixoChat/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.3734375" />
+        <entry key="..\:/Work/StudioProject/ArixoChat/app/src/main/res/xml/network_security_config.xml" value="0.15729166666666666" />
+        <entry key="app/src/main/res/drawable-xhdpi/shape_dialog_confirm.xml" value="0.2989583333333333" />
+        <entry key="app/src/main/res/drawable-xhdpi/shape_dialog_edit.xml" value="0.2989583333333333" />
+        <entry key="app/src/main/res/drawable-xxhdpi/shape_history_bg.xml" value="0.1375" />
+        <entry key="app/src/main/res/drawable/background_button.xml" value="0.16458333333333333" />
+        <entry key="app/src/main/res/drawable/background_circle_blue.xml" value="0.10572916666666667" />
+        <entry key="app/src/main/res/drawable/button_background.xml" value="0.103125" />
+        <entry key="app/src/main/res/drawable/chat_from_bg_selector.xml" value="0.2833333333333333" />
+        <entry key="app/src/main/res/drawable/chat_to_bg_selector.xml" value="0.215625" />
+        <entry key="app/src/main/res/drawable/circle.xml" value="0.26666666666666666" />
+        <entry key="app/src/main/res/drawable/layout_selector.xml" value="0.10572916666666667" />
+        <entry key="app/src/main/res/drawable/selector_tab_bg.xml" value="0.2989583333333333" />
+        <entry key="app/src/main/res/drawable/shape_bg_call_to_action.xml" value="0.2989583333333333" />
+        <entry key="app/src/main/res/drawable/shape_dialog_bg.xml" value="0.2989583333333333" />
+        <entry key="app/src/main/res/drawable/shape_dialog_cancel.xml" value="0.2989583333333333" />
+        <entry key="app/src/main/res/drawable/shape_history_bg.xml" value="0.13802083333333334" />
+        <entry key="app/src/main/res/layout/activity_common.xml" value="0.212109375" />
+        <entry key="app/src/main/res/layout/activity_history.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_historynew.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.17" />
+        <entry key="app/src/main/res/layout/activity_policy.xml" value="0.16" />
+        <entry key="app/src/main/res/layout/activity_setting.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/activity_splash.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/activity_us.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_web.xml" value="0.14" />
+        <entry key="app/src/main/res/layout/chat_item_emoji.xml" value="0.2" />
+        <entry key="app/src/main/res/layout/chat_item_list_left.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/chat_item_list_right.xml" value="0.21" />
+        <entry key="app/src/main/res/layout/chat_tool_box.xml" value="0.2828125" />
+        <entry key="app/src/main/res/layout/dialog_policy.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/dialog_tip.xml" value="0.2828125" />
+        <entry key="app/src/main/res/layout/dialog_tip_edit.xml" value="0.2828125" />
+        <entry key="app/src/main/res/layout/history_item_list.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/popup_content_layout.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/shape_dialog_bg.xml" value="0.2828125" />
+        <entry key="emoji/src/main/res/layout/emojicon_grid.xml" value="0.2828125" />
+        <entry key="emoji/src/main/res/layout/emojicon_item.xml" value="0.2828125" />
+        <entry key="emoji/src/main/res/layout/emojicons.xml" value="0.2828125" />
+        <entry key="emoji/src/main/res/layout/emojicons_view.xml" value="0.2828125" />
+        <entry key="emoji/src/main/res/layout/emojicons_view_tab_item.xml" value="0.2828125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.1" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

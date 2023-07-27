@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue_200">#FF1010FC</color>
+    <color name="blue_500">#FF1010EE</color>
+    <color name="blue_700">#FF1010B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#ff4081</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorBlack">#1C1C1C</color>
+    <color name="colorTransparentWhite">#4fffffff</color>
+    <color name="colorTransparentBlack">#6f000000</color>
+
+    <color name="window_background">#EBEBEB</color>
+    <color name="main_gray">#9A9A9A</color>
+
+    <color name="frag_more_name_text">#ff7b7b7b</color>
+
+    <color name="background_tab_pressed">#6633B5E5</color>
+    <color name="line">#9A9A9A</color>
+
+    <color name="emoji_keyboard_bg_light">#f6f5f5</color>
+    <color name="bg_light">#97a4e7</color>
+    <color name="bg_click">#828dcd</color>
+</resources>

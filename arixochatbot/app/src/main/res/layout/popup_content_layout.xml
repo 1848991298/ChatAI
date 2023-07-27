@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="200dp"
+    android:layout_height="50dp"
+    android:background="#3c3f41">
+
+    <RelativeLayout
+        android:id="@+id/menu1_item1"
+        android:layout_width="50dp"
+        android:layout_height="40dp"
+        android:layout_centerVertical="true">
+
+        <ImageView
+            android:id="@+id/img_copy"
+            android:layout_width="18dp"
+            android:layout_height="18dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="4dp"
+            android:contentDescription="@null"
+            android:src="@drawable/copy" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/img_copy"
+            android:layout_centerHorizontal="true"
+            android:gravity="center"
+            android:text="复制"
+            android:textColor="#fff"
+            android:textSize="12sp" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/menu1_item2"
+        android:layout_width="50dp"
+        android:layout_height="40dp"
+        android:layout_centerVertical="true"
+        android:layout_toEndOf="@+id/menu1_item1">
+
+        <ImageView
+            android:id="@+id/img_share"
+            android:layout_width="18dp"
+            android:layout_height="18dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="4dp"
+            android:contentDescription="@null"
+            android:src="@drawable/share" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/img_share"
+            android:layout_centerHorizontal="true"
+            android:gravity="center"
+            android:text="转发"
+            android:textColor="#fff"
+            android:textSize="12sp" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/menu1_item3"
+        android:layout_width="50dp"
+        android:layout_height="40dp"
+        android:layout_centerVertical="true"
+        android:layout_toEndOf="@+id/menu1_item2">
+
+        <ImageView
+            android:id="@+id/img_delete"
+            android:layout_width="18dp"
+            android:layout_height="18dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="4dp"
+            android:contentDescription="@null"
+            android:src="@drawable/delete" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/img_delete"
+            android:layout_centerHorizontal="true"
+            android:gravity="center"
+            android:text="删除"
+            android:textColor="#fff"
+            android:textSize="12sp" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/menu1_item4"
+        android:layout_width="50dp"
+        android:layout_height="40dp"
+        android:layout_centerVertical="true"
+        android:layout_toEndOf="@+id/menu1_item3">
+
+        <ImageView
+            android:id="@+id/img_more"
+            android:layout_width="18dp"
+            android:layout_height="18dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="4dp"
+            android:contentDescription="@null"
+            android:src="@drawable/more_white" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/img_more"
+            android:layout_centerHorizontal="true"
+            android:gravity="center"
+            android:text="更多"
+            android:textColor="#fff"
+            android:textSize="12sp" />
+    </RelativeLayout>
+</RelativeLayout>

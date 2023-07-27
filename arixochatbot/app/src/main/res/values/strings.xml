@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">ArixoChat</string>
+    <string name="send">发 送</string>
+    <string name="stop">终 止</string>
+    <string name="yesterday">昨天%s</string>
+    <string name="empty_input_hint">请输入问题</string>
+    <string name="enter_input_hint">请输入你的问题</string>
+    <string name="gdtslogan">GDTslogan</string>
+    <string name="history">历史对话</string>
+    <string name="history_id">ID</string>
+    <string name="history_cancel">取消</string>
+    <string name="history_confirm">确认</string>
+    <string name="policy_cancel">拒绝</string>
+    <string name="policy_confirm">同意并使用</string>
+    <string name="policy_dialog_title">新用户将默认自动注册零矩开放平台,并请同意零矩用户服务协议和零矩隐私政策</string>
+    <string name="setting">设置</string>
+    <string name="setting_set">通用设置</string>
+    <string name="set_date">数据清除</string>
+
+    <string name="setting_policy">隐私政策摘要</string>
+    <string name="setting_feedback">意见反馈</string>
+    <string name="setting_server">服务协议&amp;隐私政策</string>
+    <string name="setting_user">关于我们</string>
+    <string name="setting_userinfo">个人信息收集清单</string>
+    <string name="setting_sdk">第三方共享清单及SDK目录</string>
+    <string name="Common_Functions">常用功能</string>
+    <string name="policy_one">零矩用户体验规则</string>
+    <string name="policy_two">零矩隐私政策</string>
+    <string name="policy_three">零矩开放平台用户服务协议</string>
+    <string name="policy_four">零矩开放平台隐私政策</string>
+    <string name="policy_five">儿童隐私政策</string>
+    <string name="policy_title">隐私政策</string>
+    <string name="us_name">零矩科技</string>
+    <string name="update">检查更新</string>
+    <string name="versions">当前版本:V1.0.0</string>
+    <string name="history_search">搜索历史对话</string>
+</resources>

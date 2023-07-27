@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="6dp">
+
+    <TextView
+        android:id="@+id/chat_item_date"
+        style="@style/chat_item_date"
+        android:layout_gravity="center_horizontal"
+        android:visibility="gone" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginEnd="5dp">
+
+        <ImageView
+            android:id="@+id/img_avatar"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_alignParentEnd="true"
+            android:background="@drawable/shape_history_bg"
+            android:contentDescription="@null" />
+
+        <RelativeLayout
+            android:id="@+id/chat_item_layout_content"
+            style="@style/chat_item_content"
+            android:layout_toStartOf="@+id/img_avatar"
+            android:background="@drawable/chat_to_bg_selector">
+
+            <io.github.rockerhieu.emojicon.EmojiconTextView
+                android:id="@+id/chat_item_content_text"
+                style="@style/chat_item_text_content" />
+
+            <TextView
+                android:id="@+id/chat_item_content_data"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/chat_item_content_text"
+                android:text="@string/history"
+                android:textColor="#c8ddfc"
+                android:textSize="12sp" />
+
+            <ImageView
+                android:id="@+id/chat_item_content_image"
+                style="@style/chat_item_image_content"
+                android:contentDescription="@null" />
+        </RelativeLayout>
+
+        <ImageView
+            android:id="@+id/chat_item_fail"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_centerVertical="true"
+            android:layout_toStartOf="@+id/chat_item_layout_content"
+            android:background="@drawable/msg_state_fail_resend"
+            android:contentDescription="@null"
+            android:focusable="false"
+            android:visibility="gone" />
+
+        <ProgressBar
+            android:id="@+id/chat_item_progress"
+            style="@android:style/Widget.ProgressBar.Small.Inverse"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toStartOf="@+id/chat_item_layout_content"
+            android:visibility="gone" />
+    </RelativeLayout>
+
+</LinearLayout>
